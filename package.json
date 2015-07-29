@@ -1,0 +1,27 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "A simple example of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/webpack-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "tutorial",
+    "example"
+  ],
+  "author": "Oakley Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/webpack-example/issues"
+  },
+  "homepage": "https://github.com/ohall/webpack-example#readme",
+  "devDependencies": {
+    "webpack": "^1.10.5"
+  }
+}
