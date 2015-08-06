@@ -12,4 +12,4 @@ npm install
 webpack
 ```
 
-Now point your browswer at `index.html` which links the new `bundle.js` you've created.
+Now point your browser at `index.html` which links the new `bundle.js` you've created.
